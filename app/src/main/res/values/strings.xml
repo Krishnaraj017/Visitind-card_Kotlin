@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Visiting Card</string>
+    <string name="name">Name</string>
+    <string name="address">address</string>
+    <string name="ph_no">ph no</string>
+    <string name="company_name">Company name</string>
+</resources>
